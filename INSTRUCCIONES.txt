@@ -2,7 +2,7 @@
 Copiar la carpeta "PARCHE" al escritorio
 
 2º
-Descargar y instalar firefox de su pagina oficial :https://www.mozilla.org/es-ES/firefox/new/
+Descargar y instalar firefox de su pagina oficial :https://www.mozilla.org/es-ES/firefox/new/ o usar el firefox portable
 
 3º
 Instalar "install_flash_player.exe" que esta dentro de la carpeta "PARCHE" que copiaste al escritorio
