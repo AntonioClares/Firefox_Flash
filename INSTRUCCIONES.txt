@@ -1,0 +1,17 @@
+1º
+Copiar la carpeta "PARCHE" al escritorio.
+
+2º
+instalar firefox portable que esta en la carpeta "PARCHE" que copiaste al escritorio.
+
+3º
+Instalar "install_flash_player.exe" que esta dentro de la carpeta "PARCHE" que copiaste al escritorio.
+
+4º
+Ejecutar el archivo "patch.bat" que esta dentro de la carpeta "PARCHE" que copiaste al escritorio-
+Como Administrador (SEGUNDO BOTON DEL RATON ENCIMA DEL ARCHIVO Y PICAR EN EJECUTAR COMO ADMINISTRADOR)
+
+5º 
+Usa el firefox que acabas de instalar
+
+LISTO... ESPERO QUE TE ALLA SERVIDO.
