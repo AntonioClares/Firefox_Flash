@@ -2,7 +2,7 @@
 Copiar la carpeta "PARCHE" al escritorio.
 
 2º
-instalar firefox portable que esta en la carpeta "PARCHE" que copiaste al escritorio.
+Descomprimir y instalar "Firefox Setup 78.10.0esr.7z"
 
 3º
 Instalar "install_flash_player.exe" que esta dentro de la carpeta "PARCHE" que copiaste al escritorio.
